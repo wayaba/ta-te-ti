@@ -1,4 +1,4 @@
-export const TURNS = { X: 'x', O: 'o' }
+export const TURNS = { X: '❌', O: '⚪' }
 
 export const WINNER_COMBOS = [
   [0, 1, 2],
